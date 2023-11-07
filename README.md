@@ -17,7 +17,7 @@ Each folder contains the source code of HTML and CSS examples, including:
 
 ## My Personal Homepage
 
-[Blog](https://om1s.link)
+[Blog](https://om1s.w.link)
 
 ## Contributing
 
